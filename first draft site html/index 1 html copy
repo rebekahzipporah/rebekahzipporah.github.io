@@ -1,0 +1,28 @@
+
+<html>
+<head>
+<title>Rebekah's website</title>
+</head>
+<body>
+<body bgcolor="#ebc9da" text="#000000">
+<header>
+<h1><center>Welcome to My Website</h1>
+<h2><center> This cite was created to help you to get to know me Rebekah Z Silverstein</h2></center>
+
+
+</header>
+
+
+<nav>
+<ul>
+<li><a href="site/home.html">Home</a></li>
+<li><a href="site/courses.html">Course</a></li>
+<li><a href="site/resume.html">Resume</a></li>
+<li><a href="site/Professional.html">Professional Activites</a></li>
+<li><a href="site/About Me.html">About Me</a></li>
+</ul>
+</nav>
+
+
+</body>
+</html>

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<title>Rebekah's website</title>
+</head>
+<body>
+
+<body bgcolor="#ebc9da" text="#000000">
+
+<header>
+<h1><center>Welcome to My Website</h1>
+
+<h2><center> This cite was created to help you to get to know me Rebekah Z Silverstein</h2></center>
+<br>
+<br>
+<br>
+<p> This is information about my professional life.
+<br>
+<br>
+If you would like to see my blog please visit <a href="https://rebekahzipporah.blogspot.com/">Livinggood</a></p>
+
+
+<body>
+    
+<nav>
+<ul>
+<li><a href="home.html">Home</a></li>
+<li><a href="Courses1.html">Courses</a></li>
+<li><a href="resume1.html">Resume</a></li>
+<li><a href="Professional1.html">Professional Activites</a></li>
+<li><a href="AboutMe1.HTML">About Me</a></li>
+</ul>
+</nav>
+
+
+</body>
+</html>

@@ -1,0 +1,30 @@
+<html>
+<head>
+<title>Rebekah's Professional Exerpeince</title>
+</head>
+<body>
+
+<header>
+<h1><center>Current Professional Experience</h1>
+<h1> Graduate student at University of Oklahoma MLIS</h1>
+<h1> Serving as an AmeriCorps VISTA at The OIC Oppertunities Industrailization Center</h1>
+<h1>Graduate Assistant at The University of Oklahoma<h1>
+<h1>Hebrew School Teacher</h1>
+<h1>In my free time I enjoy volunteering at ODL, Civic Center Music Hall, The Oklahoma Contemporary Art Museum, and the Oklahoma Farmers Market.</h1>
+<br>
+<br>
+
+<nav>
+<ul>
+<li><a href="Home.html">Home</a></li>
+<li><a href="Courses.html">Courses</a></li>
+<li><a href="Resume.html">Resume</a></li>
+<li><a href="Professional.html">Professional Activites</a></li>
+<li><a href="About Me.html">About Me</a></li>
+</ul>
+</nav>
+
+
+
+</body>
+</html>

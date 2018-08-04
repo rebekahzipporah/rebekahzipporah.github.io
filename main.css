@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+
+<html>
+<head> 
+   
+    
+<title>Rebekah's website</title>
+   <link rel="stylesheet" href="main.css" type="text/css">  
+</head>
+     <nav class="main_menu"
+
+    
+.body {
+Font-family: Halvetical, Arial, sans-serif;
+Background-color: #B8D2E3;
+    }
+#wrapper { 
+Max-width: 1000px;
+border: 10px;
+Margin: 30px auto;
+Background-color: #B8D2E3;
+Padding: 10px;
+    }
+header {
+    background-color:#85929E;
+    height: 100px;
+    padding: 4px;
+}
+header h1{
+text-transform: uppercase;
+text-align: center;
+color: gold;
+line-height: 25px;
+}
+header h2 {
+    font-variant: small-caps;
+    text-align: center;
+    Color: #0000ff;
+}
+#content {
+    max-width: 980px;
+    height= 500px;
+    padding: 30px;
+    margin: 30px auto;
+    background-color:azure;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+.main_menu{
+ max-width: 1000px;
+margin: 30px auto;
+text-align: center;
+    padding: 5px 0 5px 0;
+    line-height: 40px;
+    background-color: #34495e;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+.main_menu li{
+    Display: inline;
+    padding:0 10px 0 10px;
+    font-size:25px;
+
+}
+/*display: block or none*/
+
+.main_menu a {
+    text-decoration:none;
+    color: 0008080;
+    padding: 8px;
+    font-variant: small-caps;
+    
+}
+.main_menu a:visited{
+    color: #108DE1;
+} 
+.main_menu a:hover{
+    color:#0000ff;
+}
+.main_menu a:active{
+    color:#808080;
+}
+<header>
+
+    <h1><center>Welcome to My First Website</h1>
+<h2>This cite was created to help you to get to know me Rebekah Z Silverstein Thank you for visiting!</h2>
+        
+    </header>
+<div id="wrapper">
+
+<nav class="main_menu"
+<nav>
+<ul>
+<li><a href="home1.html">Home</a></li>
+<li><a href="Courses1.html">Courses</a></li>
+<li><a href="resume1.html">Resume</a></li>
+<li><a href="Professional1.html">Professional Activites</a></li>
+<li><a href="AboutMe1.HTML">About Me</a></li>
+</ul>
+</nav>
+</nav> 
+   
+<div id="content">
+
+<p> This website contains information about my professional and accademic life.
+<br>
+ 
+   If you would like to contact me in the future <a href= "mailto:rebekahzipporah@ou.edu">email me</a>
+
+
+
+<body>
+    
+</div>
+
+</div>
+
+    
+</body>
+</html>

@@ -1,0 +1,49 @@
+<html>
+<head>
+<title>This Page is about me</title>
+</head>
+<body>
+
+<header>
+<h1><center>Hello This is me Rebekah Silverstein</h1>
+<h2><center> This site was created to help you get to know me Rebekah Z Silverstein</h2>
+
+</header>
+<br>
+<br>
+<p> I like to travel.
+<p><center>
+<img src="img/Seattle.jpg"></center>
+<br>
+<p> I like to bicycle!
+<br>
+<p><center>
+<img src="img/BIKE.jpg"></center>
+<br>
+<p> I love my dog.
+<br>
+<p><center>
+<img src="img/pixie2.jpg"></center>
+<br>
+<p> I love to craft and make!
+<br>
+<p><center>
+<img src="img/felted.jpg"></center>
+<br>
+<p>please check out my blog.
+<a href="https://rebekahzipporah.blogspot.com/">livinggood</a></p>
+<br>
+<br>
+<nav>
+<ul>
+<li><a href="home.html">Home</a></li>
+<li><a href="courses.html">Courses</a></li>
+<li><a href="Resume.html">Resume</a></li>
+<li><a href="Professional.html">Professional</a></li>
+<li><a href="About Me.html">About Me</a></li>
+</ul>
+</nav>
+
+
+</body>
+</html>

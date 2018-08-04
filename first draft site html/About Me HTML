@@ -1,0 +1,87 @@
+<html>
+<head>
+<title>This Page is about me</title>
+<style>
+
+.box{
+clear:right;
+margin:0 600px;
+background-color:lightgray;
+width:220px;
+margin:10px;
+margin: 0 600px;
+border:5px solid navy;
+padding:5px;
+}
+
+#large{font size: 200%;
+color: blue;
+
+</style>
+}
+</head>
+<body>
+
+<header>
+<h1><center>welcome to my website</h1>
+<h2><center>This cite was created to help you to get to know me</h2>
+<h3><center> Rebekah Zipporah Silverstein</h3>
+</header>
+<br>
+<p><center> I like to travel</div></center>
+<p>
+<center><img src="img/Seattle.jpg">
+<br>
+<br>
+<p> I like to ride my bicycle.
+<br>
+<br>
+<p>
+<img src="img/BIKE.jpg"> 
+<p> I love my dog.
+<br>
+<p>
+<img src="img/pixie2.jpg"> 
+<br>
+<p> I like to make and craft!
+<br>
+<p>
+<img src="img/felted.jpg">
+<br>
+<br>
+<p><h3><center>Listen to one of my favorite Cocteau Twins Songs </center></h3>
+<p><audio controls="controls">
+<source src="Cocteau Twins - Lorelei.mp3" />
+</audio>
+<br>
+
+
+<br>
+<br>
+<p><h3><center> Here Is a Video I made</center></p>
+<p><video controls="controls">
+<source src="
+</video>
+<p>please check out my blog.
+<a href="https://rebekahzipporah.blogspot.com/">livinggood</a></p>
+</center>
+<br>
+<div class="box">The total width of this div element equals 220px (content width) +10px(left padding) +5px(left border) + 10px(right padding) +5px(right boarder)
+</div>
+<br>
+<br>
+If you would like to make contact in the future <a href="mailto:rebekahzipporah@ou.edu">email me</a>
+<nav>
+<ul>
+<li><a href="Home.html">Home</a></li>
+<li><a href="Courses.html">Courses</a></li>
+<li><a href="Resume.html">Resume</a></li>
+<li><a href="Professional.html">Professional Activites</a></li>
+<li><a href="About Me.html">About Me</a></li>
+</ul>
+</nav>
+
+
+
+</body>
+</html>
